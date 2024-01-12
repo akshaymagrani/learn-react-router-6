@@ -6,8 +6,8 @@
     "react-router-dom": "6.4.3"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "^5.0.11"
   },
   "scripts": {
     "start": "vite",
